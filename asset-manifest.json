@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/prayers-time/static/css/main.4726165b.css",
+    "main.js": "/prayers-time/static/js/main.630e3389.js",
+    "static/js/787.edd2ff46.chunk.js": "/prayers-time/static/js/787.edd2ff46.chunk.js",
+    "static/media/dhhr-prayer-mosque.png": "/prayers-time/static/media/dhhr-prayer-mosque.4995dcb3da4d45940ab8.png",
+    "static/media/asr-prayer-mosque.png": "/prayers-time/static/media/asr-prayer-mosque.5d37c146971207b3110e.png",
+    "static/media/night-prayer-mosque.png": "/prayers-time/static/media/night-prayer-mosque.11c199f7e7be388aa782.png",
+    "static/media/fajr-prayer.png": "/prayers-time/static/media/fajr-prayer.ae0d95120526ee8cbe67.png",
+    "static/media/sunset-prayer-mosque.png": "/prayers-time/static/media/sunset-prayer-mosque.7d9cdb1008e908b79f28.png",
+    "static/media/islam-1299211.svg": "/prayers-time/static/media/islam-1299211.d406bbe77b4f29dd3c54a8409f64ec0a.svg",
+    "index.html": "/prayers-time/index.html",
+    "main.4726165b.css.map": "/prayers-time/static/css/main.4726165b.css.map",
+    "main.630e3389.js.map": "/prayers-time/static/js/main.630e3389.js.map",
+    "787.edd2ff46.chunk.js.map": "/prayers-time/static/js/787.edd2ff46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4726165b.css",
+    "static/js/main.630e3389.js"
+  ]
+}
