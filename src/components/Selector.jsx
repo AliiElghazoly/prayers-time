@@ -6,8 +6,7 @@ function Selector(prop) {
           <select
             onClick={prop.select}
             onChange={(e)=>{prop.setPalce(e.target.value)}}
-            className=" select rounded-lg font-semibold block appearance-none text-black hover:cursor-pointer w-full bg-white border border-gray-300 py-2 px-4 pr-8 leading-tight focus:outline-none focus:border-blue-500"
-          value="cairo" >
+            className=" select rounded-lg font-semibold block appearance-none text-black hover:cursor-pointer w-full bg-white border border-gray-300 py-2 px-4 pr-8 leading-tight focus:outline-none focus:border-blue-500" >
             <option value="Cairo" > القاهرة</option>
             <option value="Alexandria"> الاسكندرية</option>
             <option value="Monofia"> المنوفية</option>

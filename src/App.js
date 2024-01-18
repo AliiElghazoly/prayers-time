@@ -23,7 +23,7 @@ function App() {
     };
   useEffect(() => {
     gitTiming();
-  }, []);
+  }, [palce]);
   return (
     <>
       {loding ? (
