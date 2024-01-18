@@ -2,7 +2,7 @@
 function DatePlace(prop) {
   return (
     <div>
-        <div className="flex justify-center flex-wrap items-center m-10">
+        <div className="flex justify-center flex-wrap items-center m-5 date">
             <div className="p-4">
               <p>
                 {" "}

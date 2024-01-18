@@ -99,3 +99,22 @@ html {
     transform: scale(1);
   }
 }
+@media screen and (max-width: 480px){
+  /* under header */
+  .date{
+    font-size: 10px;
+    margin: 5;
+  }
+  .selectparant{
+    margin: 0;
+    padding: 0;
+  }
+  .crad{
+    padding: 0;
+    margin: 20px;
+  }
+  .cardIn{
+    border-radius: 10px;
+  }
+  
+}

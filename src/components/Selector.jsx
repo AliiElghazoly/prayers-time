@@ -1,7 +1,7 @@
 function Selector(prop) {
   return (
     <>
-      <div className="flex items-center justify-center pt-8">
+      <div className="selectparant flex items-center justify-center pt-8">
         <div className="relative w-64">
           <select
             onClick={prop.select}
@@ -28,9 +28,7 @@ function Selector(prop) {
             </svg>
           </div>
         </div>
-      </div>
-      <hr />
-    </>
+      </div> </>
   );
 }
 

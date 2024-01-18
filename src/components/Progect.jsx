@@ -13,7 +13,7 @@ function Progect(prop) {
           <Navbar data={prop.timing} />
           <DatePlace timing={prop.timing} palce={prop.palce} />
           <Selector select={prop.gitTiming} setPalce={prop.setPalce} palce={prop.palce} />
-          <div className="flex flex-wrap my-12">
+          <div className=" crad flex flex-wrap my-12">
             <Crad
               img={prop.elfagr}
               title="الفجر"

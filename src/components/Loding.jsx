@@ -8,7 +8,6 @@ function Loding() {
         </div>
       <div className="mt-4 font-bold text-4xl">جاري التحميل ...</div>
       <div className="mt-8">تأكد من اتصالك بالانترنت</div>
-      ali
       </div>
     </div>
   );
